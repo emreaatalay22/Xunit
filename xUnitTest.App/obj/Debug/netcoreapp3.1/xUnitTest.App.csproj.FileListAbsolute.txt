@@ -1,0 +1,9 @@
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\bin\Debug\netcoreapp3.1\xUnitTest.App.deps.json
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\bin\Debug\netcoreapp3.1\xUnitTest.App.dll
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\bin\Debug\netcoreapp3.1\xUnitTest.App.pdb
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\obj\Debug\netcoreapp3.1\xUnitTest.App.csprojAssemblyReference.cache
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\obj\Debug\netcoreapp3.1\xUnitTest.App.AssemblyInfoInputs.cache
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\obj\Debug\netcoreapp3.1\xUnitTest.App.AssemblyInfo.cs
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\obj\Debug\netcoreapp3.1\xUnitTest.App.csproj.CoreCompileInputs.cache
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\obj\Debug\netcoreapp3.1\xUnitTest.App.dll
+C:\Users\09370973\Desktop\localrepos\AspNetCore\xUnitTest\xUnitTest\xUnitTest.App\obj\Debug\netcoreapp3.1\xUnitTest.App.pdb
